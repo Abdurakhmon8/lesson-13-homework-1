@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 500px;
+    margin: 30px;
+}
+
+.fieldset-1{
+    width: 400px;
+}
+
+.fieldset-2{
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
+.name{
+    margin-left: 10px;
+    margin-top: 15px;
+    display: flex;
+    gap: 30px;
+    margin-bottom: 15px;
+}
+
+.lastname{
+    margin-left: 10px;
+    display: flex;
+    gap: 33px;
+    margin-bottom: 15px;
+}
+
+.date{
+    margin-left: 10px;
+    display: flex;
+    gap: 73px;
+    margin-bottom: 15px;
+}
+
+.color{
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    gap: 41px;
+    margin-bottom: 15px;
+}
+
+.gender{
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.Gender{
+    margin-right: 58px;
+}
+
+.house-number{
+    margin-top: 15px;
+    display: flex;
+    gap: 30px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+
+.street{
+    margin-left: 10px;margin-bottom: 10px;
+    display: flex;
+    gap: 88px;
+}
+
+.choice{
+    display: flex;
+    gap: 98px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+
+.fieldset-3{
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
